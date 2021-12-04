@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**deep-majhi/deep-majhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  (Hi) I am Deep Majhi 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently Pursuing B.Tech, CSE into C, Python, Java, Web Developement for my projects!
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about web developement and Others !
+- 📫 How to reach me: https://www.linkedin.com/in/deep-majhi/
+- 🤝 Connect with WhatsApp me: +91 8777423308
+- 😄 Pronouns: He/Him
+- ⚡ Hobbies and Fun fact: I love to listening Music and Watch Movies and reading books!
+## Bio
+I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My LinkedIn profile:
+<p align="center">
+<a href="https://www.linkedin.com/in/deep-majhi/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
+  
